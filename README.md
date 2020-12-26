@@ -8,8 +8,8 @@ Refer to the sensor datasheet for more help on how to set the sensor properly.
                                                ###  Diagram   ###
 ![alt text](https://github.com/Ish-Co/HC-SR501/blob/main/HC-SR501%20Wiring%20diagram.png)
 
-Code
-Note: The code is so simple feel free to edit it!
+Code\n
+Note: The code is so simple feel free to edit it!\n
 '''
 int ledPin = 6;            // LED pin
 int pirPin = 7;            // PIR pin 

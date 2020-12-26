@@ -15,7 +15,9 @@ Note: The code is so simple feel free to edit it!
 '''
 
 int ledPin = 6;            // LED pin
+
 int pirPin = 7;            // PIR pin 
+
 int pirStat = 0;           // PIR status
 
 void setup() 

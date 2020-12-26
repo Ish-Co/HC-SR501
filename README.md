@@ -5,7 +5,7 @@ If you are using the motion sensor with an Arduino or any controller as showing 
 
 Refer to the sensor datasheet for more help on how to set the sensor properly.
 
-                                               ###  Diagram   ###
+**Diagram**
 ![alt text](https://github.com/Ish-Co/HC-SR501/blob/main/HC-SR501%20Wiring%20diagram.png)
 
 Code 

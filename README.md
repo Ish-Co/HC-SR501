@@ -11,6 +11,7 @@ Refer to the sensor datasheet for more help on how to set the sensor properly.
 
                                                ###    Code    ###
                                 Note: The code is so simple feel free to edit it!
+//
 int ledPin = 6;            // LED pin
 int pirPin = 7;            // PIR pin 
 int pirStat = 0;           // PIR status

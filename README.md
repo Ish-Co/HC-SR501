@@ -5,12 +5,12 @@ If you are using the motion sensor with an Arduino or any controller as showing 
 
 Refer to the sensor datasheet for more help on how to set the sensor properly.
 
-                                                                        ***   Diagram   ***
+                                               ###  Diagram   ###
 ![alt text](https://github.com/Ish-Co/HC-SR501/blob/main/HC-SR501%20Wiring%20diagram.png)
 
 
-                                                                        ***     Code    ***
-                                                          Note: The code is so simple feel free to edit it!
+                                               ###    Code    ###
+                                Note: The code is so simple feel free to edit it!
 int ledPin = 6;            // LED pin
 int pirPin = 7;            // PIR pin 
 int pirStat = 0;           // PIR status

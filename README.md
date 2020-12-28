@@ -1,4 +1,4 @@
-# HC-SR501
+# PIR Motion Sensor [HC-SR501]
 > The .ino file is a sample code for the PIR motion sensor that can help test and calibrate the motion sensor.
 
 If you are using the motion sensor with an Arduino or any controller as showing below, you might want to have the timer delay switched to the minimum which is 3s for this HC-SR501 and you might want move the jumper to the left putting it on "Mutliple Trigger Mode" which cause the sensor to stay high till there is no motion detected then the sensor will go low after 3s.
